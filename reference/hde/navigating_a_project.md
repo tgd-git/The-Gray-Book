@@ -1,6 +1,6 @@
 # Navigating a Project
 
-A project in VL typically consists of a single .vl document that holds one ore more patches. In addition a document can depend on other documents or Nugets whose nodes it can access.
+A project in VL typically consists of a single .vl document that holds one or more patches. In addition a document can depend on other documents or Nugets whose nodes it can access.
 
 In the main menubar you always see the filename of the document you're currently working on, ie. the "Active Document".
 
